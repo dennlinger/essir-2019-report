@@ -18,9 +18,12 @@ During the afternoon sessions, Nicola Ferro and Julio Gonzalo presented the diff
 
 ## Second Day
 During the morning session, the topic was quite different from the previous day and focusing on the user-oriented aspect in IR. While Nick Belkin introduced various perception models for the Informatin Retrieval process, starting from the first important works by Cleverdon, Diane Kelly walked the students through a history of different user interfaces, all the way to modern smartphone interfaces.<br/>
-During the afternoon session by Claudia Hauff, students learned the value of a well-tuned baseline, and how neural IR models are not the solution to every problem, especially with respect to explainability and reproducibility. Gabriella Pasi concluded the day by
+During the afternoon session by Claudia Hauff, students learned the value of a well-tuned baseline, and how neural IR models are not the solution to every problem, especially with respect to explainability and reproducibility. Gabriella Pasi concluded the day by introducing the notion of context in IR, as to avoid a "one size fits all" approach.
 
 ## Wednesday
+After two intense days of more theoretically inclined lectures, Wednesday brought two refreshing morning sessions by Nicola Tonellotto and Carlos Castillo.
+Again, the discrepancy between the research in industry and academia became a central aspect of the talk by Nicola Tonellotto, who offered a glimpse into the issues of production systems at scale, and what measures can be taken to implement many of the great ideas and techniques in practice.
+Carlos Castillo on the other hand talked about mining social networks, and also warned the students to not blindly follow correlations or data that could be obtained way easier.
 
 ## Thursday
 
@@ -28,4 +31,5 @@ During the afternoon session by Claudia Hauff, students learned the value of a w
 
 ## Impressions
 As a PhD student that started just two months ago, ESSIR & FDIA were the perfect place to be in order to get a broad foundation in IR, especially since many universities still do not have dedicated (or mandatory) IR lectures in place.
-Aside from the obvious learning, meeting peers that are in a somewhat similar position helps immensely to start building a network of potential future collaborators and friends. Especially facilitated through the symposium's presentations, it became clear what individuals are working on or planning for their future experiments.
+Aside from the obvious learning, meeting peers that are in a somewhat similar position helps immensely to start building a network of potential future collaborators and friends. Especially facilitated through the symposium's presentations, it became clear what individuals are working on or planning for their future experiments.<br/>
+That, together
