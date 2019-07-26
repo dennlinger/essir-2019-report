@@ -29,11 +29,14 @@ The afternoon sessions were taken over by the FDIA paper presentations, which we
 ## Thursday
 Opening the morning sessions was Henning Müller, who identified some of the key challenges of IR in medical contexts; he also stressed the importance of interdisciplinary work. In his opinion, students should either really try to understand the material to its fullest, or refrain from participating in interdisciplinary activities (which need not be a bad thing). Paolo Cremonesi followed up with a fundamental lecture on a very related topic -- recommender systems. During his session, he made sure to cover a wide variety of problem variations in the field and formalize the problem to the students.<br/>
 In a panel during the first afternoon session under the moderation of Maristella Agosti, students had the chance to give an early feedback on the event structure and potential future directions of ESSIR. Furthermore, the panelists Ricardo Baeza-Yates, Bruce Croft, Diane Kelly and Henning Müller were addressing the students' questions from anything regarding the summer school organization to more general questions about IR education or planning of PhD topics.
-Afterwards, the second part of the FDIA symposium took place with a poster session to allow even more students to explain their research topics.
+Afterwards, the second part of the FDIA symposium took place with a poster session to allow more students to explain their research topics to the audience.
 
 Continuing the conversations from the previous sessions at a social dinner in a typical Italian restaurant, further exchange was facilitated by the organizers and emphasized the almost family-like atmosphere at the event. In addition, the FDIA chairs awarded Best Paper awards to Dennis Dosso (presentation) and Emma Gerritse (poster), although they stressed how hard the decision was due to the number of great submissions.
 
 ## Friday
+During the last day, Emine Yilmaz talked about understanding and inferring user needs, for which she explained the difficulty of multitasking from a system design point of view. Especially tracking user behaviour across multiple sessions is still a topic worth exploring, and sees further research put out each year.
+As the final talk, Ricardo Baeza-Yates' session on biases in web search and recommenders was already hotly anticipated by many attendees, as the topic had already been mentioned by many of the other speakers, and seemed to fit very well in the context of current research interests. He convincingly layed out the proposal that no one is immune to all biases, and that the sheer variety of problems -- broadly categorized in cultural, statistical or cognitive biases -- needs a very determined researcher to realize the interplay of different factors in datasets. <br/>
+To conclude a week of intense learning experience, this years' edition introduced 
 
 ## Impressions
 As a PhD student that started just two months ago, ESSIR & FDIA were the perfect place to be in order to get a broad foundation in IR, especially since many universities still do not have dedicated (or mandatory) IR lectures in place.
