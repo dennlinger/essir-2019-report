@@ -41,4 +41,4 @@ To conclude a week of intense lectures, this years' edition introduced a small s
 ## Impressions
 As a PhD student that just recently started, ESSIR & FDIA were the perfect place to be in order to get a broad foundation in IR, especially since many universities still do not have dedicated (or mandatory) IR lectures in place. Every single teacher was extremely motivated, and really made a lasting impression on my with their enthusiasm for the field.
 Aside from the obvious learning experience, meeting peers that are in a somewhat similar position helps immensely to start building a network of potential future collaborators and friends. Especially facilitated through the symposium's presentations, it became clear what individuals are working on or planning for their future experiments.<br/>
-That, together with the great support from a number of [sponsors](http://www.ir.disco.unimib.it/essir2019/sponsorships/),
+Thanks to the engaged committees for both ESSIR and FDIA and with the help from a number of [sponsors](http://www.ir.disco.unimib.it/essir2019/sponsorships/), it will be certainly an unforgettable experience for me.
